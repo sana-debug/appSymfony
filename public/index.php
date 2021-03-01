@@ -1,5 +1,5 @@
 <?php
-
+echo 'heloo';
 use App\Kernel;
 use Symfony\Component\ErrorHandler\Debug;
 use Symfony\Component\HttpFoundation\Request;
